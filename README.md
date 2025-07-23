@@ -21,10 +21,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
-## 🎨 DESIGN  
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
-
 ## ☁️ HOSTING  
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?logo=netlify)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render)
@@ -35,6 +31,10 @@
 ## 📋 METHODOLOGIES  
 ![Kanban](https://img.shields.io/badge/-Kanban-2E9AFE?logo=trello&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-8BC34A?logo=scrumalliance&logoColor=white)
+
+## 🎨 DESIGN  
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
 
 ## 🏢 WORKPLACE  
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira)
